@@ -8,6 +8,9 @@
 
 YouTube:
 Blockchain Python (theory) EP.1/2
-https://youtu.be/9POU6eyGBA8
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9POU6eyGBA8/0.jpg)](https://www.youtube.com/watch?v=9POU6eyGBA8)
 
 Blockchain Python (Code) EP.2/2
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Pwy_2qN2QHo/0.jpg)](https://www.youtube.com/watch?v=Pwy_2qN2QHo)
